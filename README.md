@@ -27,7 +27,8 @@
 - 多言語対応？: i18n
 
 # TODOs
-- [ ] [Tutorial](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0)'完全に理解'する
+- [ ] [Flutter Tutorial](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0)を'完全に理解'する
+- [ ] ClearなPrivacy Policy：他のICU生にも役立つデータ活用を．いかなる場合でも学生から収集したデータを売らない！データのアクセス権を明確に．
 
 # 参考に出来そうなサイト
 - [NUSMods](https://nusmods.com/timetable/sem-2)
